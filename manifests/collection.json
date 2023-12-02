@@ -1,0 +1,13 @@
+{
+  "id" : "https://Mathilde-prds.github.io/IIIF-posters-project/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Mathilde-prds/IIIF-posters-project project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Mathilde-prds.github.io/IIIF-posters-project/manifests/manifest2.json",
+    "label" : "Mathilde Prades's manifest"
+  } ]
+}
