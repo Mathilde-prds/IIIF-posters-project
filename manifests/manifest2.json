@@ -1,0 +1,256 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Mathilde-prds.github.io/IIIF-posters-project/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "Mathilde Prades's manifest",
+  "metadata" : [ {
+    "label" : "Illustrator",
+    "value" : " Chéret, Jules (1836-1932)"
+  }, {
+    "label" : "Place of publication",
+    "value" : "Paris"
+  } ],
+  "description" : [ {
+    "@value" : "This is a collection of advertising posters by the illustrator Jules Chéret (1836-1932).",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Copyrights Bibliothèque nationale de France",
+  "sequences" : [ {
+    "@id" : "http://b79fa17d-ecf9-4fb5-a21f-1eb15c95f2b5",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "viewingHint" : "individuals",
+    "canvases" : [ {
+      "@id" : "http://9a176cfb-3340-4e78-a6f7-ee96648bafcc",
+      "@type" : "sc:Canvas",
+      "label" : "Advertising poster by Jules Chéret for the clothing store La Nouvelle Héloïse.",
+      "metadata" : [ {
+        "label" : "Illustrator",
+        "value" : " Chéret, Jules (1836-1932)"
+      }, {
+        "label" : "Place of publication",
+        "value" : "Paris"
+      }, {
+        "label" : "Year of publication",
+        "value" : "1870"
+      }, {
+        "label" : "ark",
+        "value" : "ark:/12148/btv1b9015566m"
+      } ],
+      "height" : 1405,
+      "width" : 1024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://83feff5c-3bb5-452c-9721-add632130f27",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/a-la-nouvelle-heloise-...-cheret-jules-btv-1b-9015566m-1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/a-la-nouvelle-heloise-...-cheret-jules-btv-1b-9015566m-1",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1405,
+          "width" : 1024
+        },
+        "on" : "http://9a176cfb-3340-4e78-a6f7-ee96648bafcc"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://f6802e86-d4f6-4231-9e28-8f52571628a3",
+      "@type" : "sc:Canvas",
+      "label" : "Advertising poster by Jules Chéret for the Voltaire clothing store.",
+      "metadata" : [ {
+        "label" : "Illustrator",
+        "value" : " Chéret, Jules (1836-1932)"
+      }, {
+        "label" : "Place of publication",
+        "value" : "Paris"
+      }, {
+        "label" : "Year of publication",
+        "value" : "1875"
+      }, {
+        "label" : "ark",
+        "value" : "ark:/12148/btv1b9015347k"
+      } ],
+      "height" : 1389,
+      "width" : 1024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://de7e4c17-2016-4520-9142-b6e70f950dd1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/a-voltaire-vetements-pour-hommes-...-cheret-jules-btv-1b-9015347k-1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/a-voltaire-vetements-pour-hommes-...-cheret-jules-btv-1b-9015347k-1",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1389,
+          "width" : 1024
+        },
+        "on" : "http://f6802e86-d4f6-4231-9e28-8f52571628a3"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://aa2285cf-bdcf-47dc-8b10-d0d4648efaad",
+      "@type" : "sc:Canvas",
+      "label" : "Advertising poster by Jules Chéret for the Lactéoline bottle of bath salt.",
+      "metadata" : [ {
+        "label" : "Illustrator",
+        "value" : " Chéret, Jules (1836-1932)"
+      }, {
+        "label" : "Place of publication",
+        "value" : "Paris"
+      }, {
+        "label" : "Year of publication",
+        "value" : "1881"
+      }, {
+        "label" : "ark",
+        "value" : "ark:/12148/btv1b90153161"
+      } ],
+      "height" : 1439,
+      "width" : 1024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://cce125cd-ad94-41dd-85e1-052206a462e9",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/lacteoline-sel-pour-bain-et-...-cheret-jules-btv-1b-90153161-1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/lacteoline-sel-pour-bain-et-...-cheret-jules-btv-1b-90153161-1",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1439,
+          "width" : 1024
+        },
+        "on" : "http://aa2285cf-bdcf-47dc-8b10-d0d4648efaad"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c98f6853-6ad0-4a82-b310-7f9fc786125d",
+      "@type" : "sc:Canvas",
+      "label" : "Advertising poster by Jules Chéret for the French beer from the Chardon warehouse.",
+      "metadata" : [ {
+        "label" : "Illustrator",
+        "value" : " Chéret, Jules (1836-1932)"
+      }, {
+        "label" : "Place of publication",
+        "value" : "Paris"
+      }, {
+        "label" : "Year of publication",
+        "value" : "1887"
+      }, {
+        "label" : "ark",
+        "value" : "ark:/12148/btv1b90037709"
+      } ],
+      "height" : 1338,
+      "width" : 1024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://68c253e0-c905-4f14-bb01-f6a282bac2e7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/entrepot-du-charbon-biere-francaise-...-cheret-jules-btv-1b-90037709-1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/entrepot-du-charbon-biere-francaise-...-cheret-jules-btv-1b-90037709-1",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1338,
+          "width" : 1024
+        },
+        "on" : "http://c98f6853-6ad0-4a82-b310-7f9fc786125d"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ce2e46ee-f8e7-4810-8782-54c9d017c86e",
+      "@type" : "sc:Canvas",
+      "label" : "Advertising poster by Jules Chéret for a diorama in the Tuileries Gardens.",
+      "metadata" : [ {
+        "label" : "Illustrator",
+        "value" : " Chéret, Jules (1836-1932)"
+      }, {
+        "label" : "Place of publication",
+        "value" : "Paris"
+      }, {
+        "label" : "Year of publication",
+        "value" : "1878"
+      }, {
+        "label" : "ark",
+        "value" : "ark:/12148/btv1b531873405"
+      } ],
+      "height" : 1497,
+      "width" : 1024,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a11114f6-eed0-4f17-bd6a-5934c3b55745",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/diorama-au-jardin-des-tuileries-...-cheret-jules-btv-1b-531873405-1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/diorama-au-jardin-des-tuileries-...-cheret-jules-btv-1b-531873405-1",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1497,
+          "width" : 1024
+        },
+        "on" : "http://ce2e46ee-f8e7-4810-8782-54c9d017c86e"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/MathildePrades'smanifest/range/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Content",
+    "viewingHint" : "top",
+    "ranges" : [ "http://example.org/iiif/MathildePrades'smanifest/range/poster1" ]
+  }, {
+    "@id" : "http://example.org/iiif/MathildePrades'smanifest/range/poster1",
+    "@type" : "sc:Range",
+    "label" : "Poster 1",
+    "canvases" : [ "http://9a176cfb-3340-4e78-a6f7-ee96648bafcc" ]
+  }, {
+    "@id" : "http://example.org/iiif/MathildePrades'smanifest/range/poster2",
+    "@type" : "sc:Range",
+    "label" : "Poster 2",
+    "canvases" : [ "http://f6802e86-d4f6-4231-9e28-8f52571628a3" ]
+  }, {
+    "@id" : "http://example.org/iiif/MathildePrades'smanifest/range/poster3",
+    "@type" : "sc:Range",
+    "label" : "Poster 3",
+    "canvases" : [ "http://aa2285cf-bdcf-47dc-8b10-d0d4648efaad" ]
+  }, {
+    "@id" : "http://example.org/iiif/MathildePrades'smanifest/range/poster4",
+    "@type" : "sc:Range",
+    "label" : "Poster 4",
+    "canvases" : [ "http://c98f6853-6ad0-4a82-b310-7f9fc786125d" ]
+  }, {
+    "@id" : "http://example.org/iiif/MathildePrades'smanifest/range/poster5",
+    "@type" : "sc:Range",
+    "label" : "Poster 5",
+    "canvases" : [ "http://ce2e46ee-f8e7-4810-8782-54c9d017c86e" ]
+  } ]
+}
